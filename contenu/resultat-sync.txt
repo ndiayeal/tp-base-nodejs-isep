@@ -1,0 +1,3 @@
+Voici le résultat: 
+	-Bonjour, voici le premier fichier texte 
+	-Bonjour, voici le second fichier texte
